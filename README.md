@@ -9,9 +9,9 @@ Deploying Infrastructure to Azure using ARM Templates and Azure Devops (Infrastr
 
 Objective: Create a simple Automated deployment process for infrastrucutre to be deployed and a Azure Devops CI/CD Pipeline using ARM Templates.
 
-# Required: Azure Devops and Azure Portal Account
+### Required: Azure Devops and Azure Portal Account
 
-# Optional: Visual Studio Code
+### Optional: Visual Studio Code
 
 
 
